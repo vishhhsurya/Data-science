@@ -1,0 +1,993 @@
+Customer_ID,Product_ID,Product_Name,Product_Category,Purchase_History,Rating,Browse_Count,Browsing_Behaviour
+C047,P018,Wallet,Bags,3,4.0,5,Medium
+C074,P022,Hoodie,Fashion,1,5.0,4,Medium
+C113,P034,Novel,Books,1,4.0,9,High
+C069,P009,Keyboard,Accessories,2,3.8,6,High
+C022,P015,Sports T-Shirt,Sports,1,4.1,6,High
+C121,P005,Power Bank,Electronics,1,2.9,5,Medium
+C061,P011,Running Shoes,Sports,2,3.8,4,Medium
+C025,P015,Sports T-Shirt,Sports,2,4.8,6,High
+C015,P027,Coffee Maker,Home,2,5.0,6,High
+C114,P019,Sunglasses,Fashion,1,4.1,2,Low
+C079,P005,Power Bank,Electronics,1,3.8,6,High
+C100,P019,Sunglasses,Fashion,2,4.6,8,High
+C018,P013,Water Bottle,Sports,1,4.4,7,High
+C024,P008,Wireless Mouse,Accessories,2,4.3,5,Medium
+C194,P020,Casual Shirt,Fashion,1,4.8,8,High
+C170,P015,Sports T-Shirt,Sports,1,4.5,9,High
+C195,P010,Webcam,Accessories,2,4.5,2,Low
+C210,P014,Fitness Band,Sports,1,5.0,10,High
+C019,P030,Cushion Set,Home,1,4.4,5,Medium
+C187,P013,Water Bottle,Sports,1,3.8,5,Medium
+C043,P016,Backpack,Bags,1,5.0,5,Medium
+C113,P035,Cookbook,Books,1,4.2,6,High
+C159,P027,Coffee Maker,Home,1,4.5,2,Low
+C113,P033,Desk Organizer,Stationery,1,3.6,5,Medium
+C121,P006,Laptop Stand,Electronics,1,4.2,3,Medium
+C179,P013,Water Bottle,Sports,1,3.3,5,Medium
+C211,P021,Jeans,Fashion,2,4.7,10,High
+C117,P035,Cookbook,Books,2,4.0,3,Medium
+C104,P027,Coffee Maker,Home,1,4.0,6,High
+C212,P012,Yoga Mat,Sports,1,5.0,7,High
+C184,P035,Cookbook,Books,2,3.4,10,High
+C164,P035,Cookbook,Books,1,3.9,4,Medium
+C137,P016,Backpack,Bags,1,4.5,7,High
+C135,P018,Wallet,Bags,2,2.8,5,Medium
+C152,P010,Webcam,Accessories,2,4.1,6,High
+C154,P011,Running Shoes,Sports,3,3.9,6,High
+C085,P013,Water Bottle,Sports,1,4.1,5,Medium
+C211,P019,Sunglasses,Fashion,2,4.1,9,High
+C139,P002,Bluetooth Speaker,Electronics,1,4.5,4,Medium
+C147,P003,Smart Watch,Electronics,1,4.5,3,Medium
+C216,P016,Backpack,Bags,1,4.0,6,High
+C006,P018,Wallet,Bags,1,4.1,3,Medium
+C008,P030,Cushion Set,Home,1,4.5,4,Medium
+C164,P032,Pen Set,Stationery,1,4.5,6,High
+C003,P027,Coffee Maker,Home,1,4.0,8,High
+C038,P028,Water Bottle Set,Home,2,3.6,4,Medium
+C118,P035,Cookbook,Books,1,4.0,3,Medium
+C145,P016,Backpack,Bags,1,4.6,3,Medium
+C162,P020,Casual Shirt,Fashion,2,2.9,3,Medium
+C071,P016,Backpack,Bags,1,3.8,13,High
+C032,P021,Jeans,Fashion,1,4.1,3,Medium
+C062,P006,Laptop Stand,Electronics,2,2.5,6,High
+C208,P035,Cookbook,Books,1,3.7,11,High
+C110,P020,Casual Shirt,Fashion,1,4.9,4,Medium
+C101,P015,Sports T-Shirt,Sports,1,4.7,7,High
+C189,P029,Desk Lamp,Home,2,4.6,6,High
+C129,P016,Backpack,Bags,3,5.0,4,Medium
+C080,P010,Webcam,Accessories,2,3.9,4,Medium
+C045,P028,Water Bottle Set,Home,1,2.7,6,High
+C134,P021,Jeans,Fashion,2,3.8,4,Medium
+C099,P003,Smart Watch,Electronics,1,4.6,5,Medium
+C056,P014,Fitness Band,Sports,2,4.5,7,High
+C206,P022,Hoodie,Fashion,1,4.7,6,High
+C061,P012,Yoga Mat,Sports,1,4.2,2,Low
+C084,P018,Wallet,Bags,3,3.9,4,Medium
+C010,P030,Cushion Set,Home,1,4.6,10,High
+C205,P006,Laptop Stand,Electronics,1,4.2,9,High
+C194,P021,Jeans,Fashion,2,4.5,4,Medium
+C141,P015,Sports T-Shirt,Sports,1,3.8,3,Medium
+C017,P016,Backpack,Bags,1,3.1,6,High
+C109,P011,Running Shoes,Sports,1,4.3,4,Medium
+C017,P011,Running Shoes,Sports,2,5.0,4,Medium
+C132,P016,Backpack,Bags,2,3.9,7,High
+C095,P032,Pen Set,Stationery,1,4.4,9,High
+C078,P004,USB-C Charger,Electronics,1,2.4,6,High
+C056,P016,Backpack,Bags,1,3.2,5,Medium
+C173,P016,Backpack,Bags,1,4.0,7,High
+C176,P006,Laptop Stand,Electronics,2,3.6,7,High
+C052,P009,Keyboard,Accessories,2,4.3,3,Medium
+C196,P035,Cookbook,Books,2,4.2,7,High
+C064,P029,Desk Lamp,Home,1,3.9,8,High
+C095,P035,Cookbook,Books,1,3.6,6,High
+C016,P022,Hoodie,Fashion,1,4.4,6,High
+C210,P013,Water Bottle,Sports,1,5.0,9,High
+C040,P021,Jeans,Fashion,1,3.7,5,Medium
+C135,P020,Casual Shirt,Fashion,1,5.0,5,Medium
+C173,P013,Water Bottle,Sports,1,4.6,7,High
+C118,P034,Novel,Books,3,4.4,6,High
+C080,P004,USB-C Charger,Electronics,1,3.2,4,Medium
+C122,P021,Jeans,Fashion,2,4.5,4,Medium
+C054,P010,Webcam,Accessories,1,3.9,10,High
+C183,P030,Cushion Set,Home,2,3.7,2,Low
+C087,P012,Yoga Mat,Sports,1,2.7,6,High
+C153,P028,Water Bottle Set,Home,1,4.2,3,Medium
+C218,P002,Bluetooth Speaker,Electronics,1,3.6,3,Medium
+C124,P029,Desk Lamp,Home,1,2.7,4,Medium
+C021,P019,Sunglasses,Fashion,1,5.0,9,High
+C145,P028,Water Bottle Set,Home,2,3.6,7,High
+C036,P033,Desk Organizer,Stationery,1,3.9,7,High
+C125,P005,Power Bank,Electronics,1,3.8,7,High
+C211,P022,Hoodie,Fashion,1,3.5,4,Medium
+C078,P009,Keyboard,Accessories,2,2.4,9,High
+C156,P016,Backpack,Bags,1,3.0,12,High
+C133,P011,Running Shoes,Sports,2,3.8,8,High
+C171,P014,Fitness Band,Sports,2,2.7,4,Medium
+C052,P005,Power Bank,Electronics,1,2.5,7,High
+C211,P020,Casual Shirt,Fashion,1,3.0,5,Medium
+C071,P014,Fitness Band,Sports,2,4.5,10,High
+C097,P006,Laptop Stand,Electronics,2,4.7,4,Medium
+C109,P015,Sports T-Shirt,Sports,1,4.6,5,Medium
+C139,P003,Smart Watch,Electronics,2,4.0,5,Medium
+C031,P018,Wallet,Bags,1,4.0,6,High
+C191,P031,Notebook,Stationery,2,4.4,5,Medium
+C113,P032,Pen Set,Stationery,2,3.7,4,Medium
+C219,P016,Backpack,Bags,3,5.0,8,High
+C119,P001,Wireless Headphones,Electronics,2,4.7,9,High
+C014,P015,Sports T-Shirt,Sports,1,3.8,7,High
+C195,P006,Laptop Stand,Electronics,1,3.9,6,High
+C201,P013,Water Bottle,Sports,1,5.0,5,Medium
+C099,P010,Webcam,Accessories,1,3.8,5,Medium
+C027,P013,Water Bottle,Sports,2,4.4,6,High
+C007,P028,Water Bottle Set,Home,1,4.3,8,High
+C018,P015,Sports T-Shirt,Sports,1,4.6,3,Medium
+C193,P016,Backpack,Bags,1,3.6,5,Medium
+C011,P020,Casual Shirt,Fashion,1,3.5,7,High
+C151,P022,Hoodie,Fashion,3,4.1,4,Medium
+C165,P008,Wireless Mouse,Accessories,1,4.3,7,High
+C140,P018,Wallet,Bags,1,4.4,3,Medium
+C186,P022,Hoodie,Fashion,2,5.0,6,High
+C209,P011,Running Shoes,Sports,1,4.0,10,High
+C194,P022,Hoodie,Fashion,1,5.0,8,High
+C056,P012,Yoga Mat,Sports,1,3.0,6,High
+C182,P013,Water Bottle,Sports,1,4.5,5,Medium
+C048,P006,Laptop Stand,Electronics,1,3.3,6,High
+C077,P013,Water Bottle,Sports,2,4.5,3,Medium
+C144,P020,Casual Shirt,Fashion,2,5.0,7,High
+C066,P030,Cushion Set,Home,1,3.9,4,Medium
+C205,P005,Power Bank,Electronics,2,4.3,7,High
+C202,P028,Water Bottle Set,Home,1,4.3,3,Medium
+C209,P012,Yoga Mat,Sports,2,3.2,3,Medium
+C057,P028,Water Bottle Set,Home,1,4.3,4,Medium
+C063,P019,Sunglasses,Fashion,1,3.9,3,Medium
+C015,P029,Desk Lamp,Home,1,4.8,5,Medium
+C218,P005,Power Bank,Electronics,1,4.0,7,High
+C097,P001,Wireless Headphones,Electronics,2,4.2,5,Medium
+C204,P001,Wireless Headphones,Electronics,2,2.8,5,Medium
+C150,P033,Desk Organizer,Stationery,1,4.5,2,Low
+C133,P014,Fitness Band,Sports,1,4.6,4,Medium
+C037,P001,Wireless Headphones,Electronics,1,4.3,1,Low
+C063,P022,Hoodie,Fashion,1,4.2,6,High
+C199,P022,Hoodie,Fashion,1,5.0,4,Medium
+C048,P009,Keyboard,Accessories,1,4.2,5,Medium
+C046,P012,Yoga Mat,Sports,1,5.0,5,Medium
+C072,P029,Desk Lamp,Home,2,4.4,5,Medium
+C043,P028,Water Bottle Set,Home,3,4.5,5,Medium
+C026,P001,Wireless Headphones,Electronics,2,3.8,10,High
+C206,P019,Sunglasses,Fashion,1,4.9,5,Medium
+C118,P031,Notebook,Stationery,1,5.0,7,High
+C073,P030,Cushion Set,Home,1,5.0,4,Medium
+C050,P002,Bluetooth Speaker,Electronics,2,4.3,2,Low
+C181,P008,Wireless Mouse,Accessories,1,3.0,5,Medium
+C069,P001,Wireless Headphones,Electronics,1,4.6,7,High
+C200,P015,Sports T-Shirt,Sports,1,4.9,10,High
+C155,P022,Hoodie,Fashion,2,4.8,9,High
+C178,P003,Smart Watch,Electronics,1,3.8,6,High
+C088,P034,Novel,Books,1,4.6,2,Low
+C102,P021,Jeans,Fashion,1,4.7,5,Medium
+C031,P020,Casual Shirt,Fashion,1,3.7,6,High
+C077,P014,Fitness Band,Sports,1,4.0,8,High
+C095,P006,Laptop Stand,Electronics,2,4.2,8,High
+C161,P020,Casual Shirt,Fashion,2,4.2,4,Medium
+C184,P032,Pen Set,Stationery,1,4.2,10,High
+C172,P034,Novel,Books,1,4.0,6,High
+C126,P021,Jeans,Fashion,1,3.9,10,High
+C124,P016,Backpack,Bags,1,4.3,9,High
+C116,P005,Power Bank,Electronics,1,3.9,6,High
+C193,P030,Cushion Set,Home,1,5.0,6,High
+C173,P011,Running Shoes,Sports,1,3.5,6,High
+C190,P011,Running Shoes,Sports,1,3.9,5,Medium
+C019,P027,Coffee Maker,Home,1,5.0,9,High
+C008,P027,Coffee Maker,Home,1,4.1,12,High
+C200,P014,Fitness Band,Sports,2,2.8,5,Medium
+C202,P030,Cushion Set,Home,3,4.4,7,High
+C106,P029,Desk Lamp,Home,1,3.1,3,Medium
+C165,P009,Keyboard,Accessories,1,4.2,7,High
+C037,P010,Webcam,Accessories,3,3.4,7,High
+C127,P012,Yoga Mat,Sports,1,4.2,5,Medium
+C109,P014,Fitness Band,Sports,1,3.7,7,High
+C101,P011,Running Shoes,Sports,2,4.2,4,Medium
+C017,P014,Fitness Band,Sports,1,3.4,6,High
+C032,P020,Casual Shirt,Fashion,2,4.7,8,High
+C142,P035,Cookbook,Books,1,4.0,5,Medium
+C168,P016,Backpack,Bags,1,4.1,3,Medium
+C101,P014,Fitness Band,Sports,1,4.0,5,Medium
+C158,P021,Jeans,Fashion,2,4.5,8,High
+C068,P021,Jeans,Fashion,1,4.5,5,Medium
+C183,P016,Backpack,Bags,1,4.2,7,High
+C051,P035,Cookbook,Books,1,4.4,3,Medium
+C170,P016,Backpack,Bags,1,3.4,7,High
+C047,P020,Casual Shirt,Fashion,1,4.6,5,Medium
+C064,P030,Cushion Set,Home,3,4.7,4,Medium
+C012,P032,Pen Set,Stationery,1,2.9,8,High
+C162,P022,Hoodie,Fashion,1,3.1,6,High
+C050,P008,Wireless Mouse,Accessories,1,4.5,3,Medium
+C182,P015,Sports T-Shirt,Sports,1,4.3,5,Medium
+C216,P030,Cushion Set,Home,1,4.0,7,High
+C201,P015,Sports T-Shirt,Sports,1,4.3,3,Medium
+C121,P003,Smart Watch,Electronics,2,4.7,7,High
+C075,P018,Wallet,Bags,1,5.0,6,High
+C219,P030,Cushion Set,Home,1,4.2,15,High
+C055,P008,Wireless Mouse,Accessories,1,5.0,4,Medium
+C154,P016,Backpack,Bags,1,5.0,8,High
+C008,P016,Backpack,Bags,1,5.0,8,High
+C008,P029,Desk Lamp,Home,1,3.1,4,Medium
+C166,P016,Backpack,Bags,1,5.0,8,High
+C042,P006,Laptop Stand,Electronics,2,3.5,5,Medium
+C072,P030,Cushion Set,Home,1,3.4,8,High
+C187,P016,Backpack,Bags,1,4.2,8,High
+C217,P030,Cushion Set,Home,1,3.1,9,High
+C070,P001,Wireless Headphones,Electronics,2,4.5,3,Medium
+C135,P022,Hoodie,Fashion,2,4.2,2,Low
+C066,P028,Water Bottle Set,Home,1,4.2,9,High
+C025,P011,Running Shoes,Sports,1,4.2,11,High
+C060,P033,Desk Organizer,Stationery,1,3.8,4,Medium
+C019,P028,Water Bottle Set,Home,2,4.5,7,High
+C021,P022,Hoodie,Fashion,1,4.2,7,High
+C095,P034,Novel,Books,2,4.0,3,Medium
+C020,P028,Water Bottle Set,Home,1,5.0,6,High
+C143,P008,Wireless Mouse,Accessories,1,4.3,5,Medium
+C188,P008,Wireless Mouse,Accessories,2,4.9,4,Medium
+C130,P020,Casual Shirt,Fashion,1,5.0,4,Medium
+C204,P002,Bluetooth Speaker,Electronics,1,3.6,6,High
+C068,P020,Casual Shirt,Fashion,1,5.0,9,High
+C150,P034,Novel,Books,1,5.0,5,Medium
+C084,P021,Jeans,Fashion,1,3.9,8,High
+C001,P016,Backpack,Bags,1,3.4,7,High
+C024,P004,USB-C Charger,Electronics,1,3.7,4,Medium
+C208,P032,Pen Set,Stationery,1,4.8,7,High
+C107,P010,Webcam,Accessories,1,2.5,5,Medium
+C185,P022,Hoodie,Fashion,1,3.1,6,High
+C045,P029,Desk Lamp,Home,2,3.6,4,Medium
+C059,P029,Desk Lamp,Home,1,2.9,3,Medium
+C002,P031,Notebook,Stationery,1,2.8,8,High
+C014,P014,Fitness Band,Sports,1,5.0,7,High
+C117,P034,Novel,Books,1,3.3,4,Medium
+C070,P006,Laptop Stand,Electronics,1,4.3,4,Medium
+C195,P003,Smart Watch,Electronics,1,4.5,10,High
+C132,P030,Cushion Set,Home,1,4.1,8,High
+C102,P018,Wallet,Bags,1,3.0,5,Medium
+C024,P005,Power Bank,Electronics,2,4.7,6,High
+C209,P015,Sports T-Shirt,Sports,2,4.7,4,Medium
+C044,P018,Wallet,Bags,1,3.5,6,High
+C065,P016,Backpack,Bags,1,4.4,5,Medium
+C142,P034,Novel,Books,1,3.6,5,Medium
+C213,P001,Wireless Headphones,Electronics,1,4.3,5,Medium
+C120,P022,Hoodie,Fashion,3,3.6,5,Medium
+C077,P012,Yoga Mat,Sports,1,3.4,10,High
+C220,P020,Casual Shirt,Fashion,1,4.1,12,High
+C162,P018,Wallet,Bags,2,4.5,4,Medium
+C126,P018,Wallet,Bags,1,4.7,7,High
+C161,P018,Wallet,Bags,1,4.3,9,High
+C082,P014,Fitness Band,Sports,1,4.7,6,High
+C109,P013,Water Bottle,Sports,1,5.0,6,High
+C027,P011,Running Shoes,Sports,1,5.0,6,High
+C079,P003,Smart Watch,Electronics,1,4.1,3,Medium
+C053,P018,Wallet,Bags,1,4.6,3,Medium
+C082,P015,Sports T-Shirt,Sports,2,4.3,9,High
+C003,P030,Cushion Set,Home,1,4.7,7,High
+C042,P008,Wireless Mouse,Accessories,1,3.6,2,Low
+C136,P020,Casual Shirt,Fashion,1,4.2,6,High
+C020,P027,Coffee Maker,Home,1,4.8,8,High
+C080,P008,Wireless Mouse,Accessories,1,3.7,8,High
+C159,P016,Backpack,Bags,2,4.4,6,High
+C219,P029,Desk Lamp,Home,2,5.0,6,High
+C051,P031,Notebook,Stationery,2,2.6,6,High
+C174,P033,Desk Organizer,Stationery,1,3.9,4,Medium
+C046,P016,Backpack,Bags,1,4.9,6,High
+C160,P019,Sunglasses,Fashion,1,3.9,6,High
+C142,P033,Desk Organizer,Stationery,1,5.0,4,Medium
+C143,P003,Smart Watch,Electronics,1,4.3,8,High
+C049,P016,Backpack,Bags,2,3.6,6,High
+C192,P005,Power Bank,Electronics,2,4.8,7,High
+C180,P005,Power Bank,Electronics,1,3.5,5,Medium
+C179,P011,Running Shoes,Sports,1,3.3,4,Medium
+C212,P013,Water Bottle,Sports,1,3.7,5,Medium
+C110,P021,Jeans,Fashion,2,3.6,5,Medium
+C078,P010,Webcam,Accessories,1,4.1,5,Medium
+C103,P021,Jeans,Fashion,2,3.9,5,Medium
+C068,P019,Sunglasses,Fashion,1,3.7,7,High
+C079,P002,Bluetooth Speaker,Electronics,1,4.4,7,High
+C002,P032,Pen Set,Stationery,3,3.8,5,Medium
+C035,P006,Laptop Stand,Electronics,1,4.4,4,Medium
+C132,P029,Desk Lamp,Home,1,3.6,9,High
+C096,P014,Fitness Band,Sports,1,3.4,3,Medium
+C156,P027,Coffee Maker,Home,1,4.6,6,High
+C218,P010,Webcam,Accessories,1,4.5,6,High
+C203,P028,Water Bottle Set,Home,1,4.3,12,High
+C143,P004,USB-C Charger,Electronics,3,4.7,5,Medium
+C210,P012,Yoga Mat,Sports,1,5.0,5,Medium
+C130,P022,Hoodie,Fashion,1,4.5,2,Low
+C208,P006,Laptop Stand,Electronics,2,4.2,5,Medium
+C090,P013,Water Bottle,Sports,1,3.2,6,High
+C119,P003,Smart Watch,Electronics,1,3.2,6,High
+C202,P029,Desk Lamp,Home,1,5.0,3,Medium
+C193,P028,Water Bottle Set,Home,1,5.0,4,Medium
+C098,P021,Jeans,Fashion,1,4.3,4,Medium
+C206,P018,Wallet,Bags,2,3.5,10,High
+C049,P012,Yoga Mat,Sports,1,4.1,9,High
+C178,P004,USB-C Charger,Electronics,1,4.3,5,Medium
+C162,P019,Sunglasses,Fashion,2,4.0,7,High
+C046,P013,Water Bottle,Sports,1,3.6,7,High
+C020,P030,Cushion Set,Home,1,4.6,6,High
+C033,P002,Bluetooth Speaker,Electronics,1,3.5,7,High
+C067,P018,Wallet,Bags,2,4.4,5,Medium
+C159,P028,Water Bottle Set,Home,1,4.7,9,High
+C112,P014,Fitness Band,Sports,2,4.0,6,High
+C074,P021,Jeans,Fashion,1,3.2,5,Medium
+C148,P016,Backpack,Bags,1,3.2,8,High
+C073,P027,Coffee Maker,Home,1,3.9,5,Medium
+C030,P014,Fitness Band,Sports,1,3.3,8,High
+C212,P015,Sports T-Shirt,Sports,1,3.8,4,Medium
+C069,P005,Power Bank,Electronics,2,3.0,6,High
+C136,P022,Hoodie,Fashion,2,4.2,4,Medium
+C096,P015,Sports T-Shirt,Sports,1,3.6,3,Medium
+C001,P014,Fitness Band,Sports,1,3.7,4,Medium
+C070,P003,Smart Watch,Electronics,1,5.0,8,High
+C219,P028,Water Bottle Set,Home,1,3.8,7,High
+C123,P030,Cushion Set,Home,2,4.2,5,Medium
+C075,P020,Casual Shirt,Fashion,1,5.0,8,High
+C120,P020,Casual Shirt,Fashion,1,3.4,1,Low
+C105,P014,Fitness Band,Sports,2,5.0,7,High
+C080,P006,Laptop Stand,Electronics,2,4.0,9,High
+C038,P016,Backpack,Bags,1,4.5,7,High
+C028,P001,Wireless Headphones,Electronics,1,4.0,4,Medium
+C146,P016,Backpack,Bags,1,4.4,6,High
+C091,P035,Cookbook,Books,1,4.7,4,Medium
+C201,P012,Yoga Mat,Sports,2,5.0,5,Medium
+C022,P014,Fitness Band,Sports,1,4.1,5,Medium
+C209,P016,Backpack,Bags,1,3.3,8,High
+C039,P002,Bluetooth Speaker,Electronics,2,3.3,8,High
+C059,P030,Cushion Set,Home,1,4.4,8,High
+C199,P021,Jeans,Fashion,1,3.7,6,High
+C018,P014,Fitness Band,Sports,1,3.2,8,High
+C064,P016,Backpack,Bags,3,4.2,2,Low
+C030,P013,Water Bottle,Sports,1,4.8,9,High
+C066,P027,Coffee Maker,Home,2,5.0,10,High
+C101,P013,Water Bottle,Sports,1,4.1,5,Medium
+C073,P016,Backpack,Bags,3,4.1,10,High
+C033,P004,USB-C Charger,Electronics,1,3.2,5,Medium
+C092,P029,Desk Lamp,Home,2,4.3,9,High
+C131,P033,Desk Organizer,Stationery,1,5.0,2,Low
+C030,P016,Backpack,Bags,1,4.1,6,High
+C090,P011,Running Shoes,Sports,2,4.7,7,High
+C037,P004,USB-C Charger,Electronics,1,4.4,5,Medium
+C007,P027,Coffee Maker,Home,2,4.8,7,High
+C128,P029,Desk Lamp,Home,2,4.0,7,High
+C042,P004,USB-C Charger,Electronics,2,2.6,9,High
+C084,P020,Casual Shirt,Fashion,2,3.8,7,High
+C176,P008,Wireless Mouse,Accessories,1,4.0,3,Medium
+C037,P006,Laptop Stand,Electronics,1,5.0,8,High
+C112,P011,Running Shoes,Sports,1,4.6,7,High
+C032,P018,Wallet,Bags,1,5.0,6,High
+C038,P027,Coffee Maker,Home,1,5.0,3,Medium
+C002,P035,Cookbook,Books,1,4.6,3,Medium
+C143,P006,Laptop Stand,Electronics,3,3.9,8,High
+C106,P030,Cushion Set,Home,2,3.8,9,High
+C018,P012,Yoga Mat,Sports,1,4.2,11,High
+C152,P004,USB-C Charger,Electronics,2,4.3,7,High
+C190,P013,Water Bottle,Sports,2,3.1,8,High
+C051,P006,Laptop Stand,Electronics,2,3.0,11,High
+C033,P006,Laptop Stand,Electronics,2,3.8,7,High
+C178,P002,Bluetooth Speaker,Electronics,1,4.1,9,High
+C050,P003,Smart Watch,Electronics,2,4.6,8,High
+C048,P005,Power Bank,Electronics,1,4.6,5,Medium
+C105,P016,Backpack,Bags,1,4.7,7,High
+C122,P020,Casual Shirt,Fashion,1,4.4,9,High
+C030,P011,Running Shoes,Sports,2,3.4,9,High
+C218,P001,Wireless Headphones,Electronics,2,4.6,7,High
+C089,P034,Novel,Books,2,3.8,5,Medium
+C041,P001,Wireless Headphones,Electronics,2,4.0,3,Medium
+C010,P029,Desk Lamp,Home,2,3.7,3,Medium
+C137,P030,Cushion Set,Home,1,4.7,5,Medium
+C025,P013,Water Bottle,Sports,1,4.6,8,High
+C132,P027,Coffee Maker,Home,1,4.0,8,High
+C014,P012,Yoga Mat,Sports,1,4.2,2,Low
+C099,P009,Keyboard,Accessories,1,3.6,11,High
+C096,P012,Yoga Mat,Sports,1,4.0,6,High
+C128,P030,Cushion Set,Home,2,4.2,11,High
+C193,P027,Coffee Maker,Home,1,3.9,7,High
+C007,P029,Desk Lamp,Home,2,4.0,4,Medium
+C120,P018,Wallet,Bags,1,4.9,5,Medium
+C119,P010,Webcam,Accessories,1,3.9,6,High
+C138,P005,Power Bank,Electronics,1,3.6,4,Medium
+C154,P015,Sports T-Shirt,Sports,1,2.9,6,High
+C206,P021,Jeans,Fashion,2,4.2,3,Medium
+C076,P032,Pen Set,Stationery,2,3.7,6,High
+C013,P002,Bluetooth Speaker,Electronics,1,3.4,5,Medium
+C112,P013,Water Bottle,Sports,1,4.6,8,High
+C123,P029,Desk Lamp,Home,1,5.0,4,Medium
+C205,P009,Keyboard,Accessories,1,3.9,3,Medium
+C150,P035,Cookbook,Books,1,4.0,7,High
+C056,P011,Running Shoes,Sports,2,3.8,8,High
+C121,P010,Webcam,Accessories,2,4.5,6,High
+C158,P022,Hoodie,Fashion,2,4.5,4,Medium
+C173,P012,Yoga Mat,Sports,1,4.9,5,Medium
+C133,P012,Yoga Mat,Sports,1,4.0,7,High
+C116,P004,USB-C Charger,Electronics,1,4.8,9,High
+C220,P018,Wallet,Bags,1,4.0,4,Medium
+C005,P020,Casual Shirt,Fashion,1,5.0,3,Medium
+C200,P011,Running Shoes,Sports,1,3.5,6,High
+C198,P002,Bluetooth Speaker,Electronics,1,5.0,4,Medium
+C208,P034,Novel,Books,1,5.0,4,Medium
+C172,P033,Desk Organizer,Stationery,1,3.6,6,High
+C081,P029,Desk Lamp,Home,1,4.1,11,High
+C020,P016,Backpack,Bags,1,4.2,3,Medium
+C015,P016,Backpack,Bags,2,3.0,10,High
+C096,P016,Backpack,Bags,1,3.4,6,High
+C058,P020,Casual Shirt,Fashion,1,3.8,4,Medium
+C062,P035,Cookbook,Books,1,4.2,5,Medium
+C080,P003,Smart Watch,Electronics,2,4.2,7,High
+C079,P004,USB-C Charger,Electronics,1,3.9,6,High
+C110,P022,Hoodie,Fashion,1,3.3,5,Medium
+C060,P034,Novel,Books,2,3.6,3,Medium
+C004,P021,Jeans,Fashion,1,4.7,4,Medium
+C040,P018,Wallet,Bags,1,4.0,8,High
+C081,P027,Coffee Maker,Home,1,3.4,8,High
+C109,P012,Yoga Mat,Sports,1,4.1,8,High
+C200,P016,Backpack,Bags,1,4.7,7,High
+C048,P004,USB-C Charger,Electronics,2,4.6,6,High
+C129,P013,Water Bottle,Sports,2,3.8,6,High
+C156,P028,Water Bottle Set,Home,1,5.0,7,High
+C111,P019,Sunglasses,Fashion,1,4.1,6,High
+C114,P022,Hoodie,Fashion,3,4.2,7,High
+C131,P031,Notebook,Stationery,1,4.1,8,High
+C137,P028,Water Bottle Set,Home,1,4.0,9,High
+C039,P005,Power Bank,Electronics,1,3.7,7,High
+C149,P020,Casual Shirt,Fashion,1,5.0,7,High
+C140,P021,Jeans,Fashion,1,3.9,4,Medium
+C132,P028,Water Bottle Set,Home,1,3.1,2,Low
+C117,P032,Pen Set,Stationery,2,4.8,9,High
+C131,P006,Laptop Stand,Electronics,1,4.2,10,High
+C037,P009,Keyboard,Accessories,3,3.0,8,High
+C053,P019,Sunglasses,Fashion,2,4.7,7,High
+C142,P031,Notebook,Stationery,2,3.6,6,High
+C198,P003,Smart Watch,Electronics,2,4.7,6,High
+C150,P031,Notebook,Stationery,1,4.1,2,Low
+C083,P021,Jeans,Fashion,1,5.0,8,High
+C092,P030,Cushion Set,Home,1,4.1,3,Medium
+C019,P016,Backpack,Bags,1,5.0,6,High
+C026,P006,Laptop Stand,Electronics,2,3.7,4,Medium
+C135,P021,Jeans,Fashion,1,3.0,5,Medium
+C180,P006,Laptop Stand,Electronics,1,4.7,6,High
+C087,P014,Fitness Band,Sports,1,4.9,7,High
+C025,P016,Backpack,Bags,1,4.5,6,High
+C026,P010,Webcam,Accessories,2,2.9,1,Low
+C094,P003,Smart Watch,Electronics,1,4.1,6,High
+C185,P020,Casual Shirt,Fashion,2,4.1,9,High
+C091,P033,Desk Organizer,Stationery,2,4.2,10,High
+C023,P010,Webcam,Accessories,1,3.2,5,Medium
+C213,P005,Power Bank,Electronics,1,4.8,2,Low
+C022,P011,Running Shoes,Sports,1,3.2,5,Medium
+C076,P033,Desk Organizer,Stationery,1,5.0,5,Medium
+C218,P008,Wireless Mouse,Accessories,2,4.0,11,High
+C205,P008,Wireless Mouse,Accessories,1,3.9,5,Medium
+C208,P033,Desk Organizer,Stationery,2,4.5,6,High
+C136,P019,Sunglasses,Fashion,1,4.3,3,Medium
+C133,P015,Sports T-Shirt,Sports,2,5.0,4,Medium
+C137,P027,Coffee Maker,Home,1,4.1,6,High
+C023,P001,Wireless Headphones,Electronics,1,4.6,3,Medium
+C003,P016,Backpack,Bags,2,3.5,8,High
+C088,P035,Cookbook,Books,2,4.6,6,High
+C120,P021,Jeans,Fashion,1,4.1,8,High
+C010,P028,Water Bottle Set,Home,2,3.6,11,High
+C010,P027,Coffee Maker,Home,2,4.5,8,High
+C074,P018,Wallet,Bags,1,4.2,4,Medium
+C037,P003,Smart Watch,Electronics,1,3.7,6,High
+C183,P028,Water Bottle Set,Home,1,3.7,4,Medium
+C196,P033,Desk Organizer,Stationery,1,3.8,3,Medium
+C134,P018,Wallet,Bags,1,3.4,8,High
+C169,P021,Jeans,Fashion,1,4.6,7,High
+C024,P010,Webcam,Accessories,1,4.0,9,High
+C096,P011,Running Shoes,Sports,1,3.4,3,Medium
+C039,P001,Wireless Headphones,Electronics,1,4.7,6,High
+C100,P018,Wallet,Bags,3,4.7,7,High
+C094,P001,Wireless Headphones,Electronics,1,5.0,7,High
+C188,P009,Keyboard,Accessories,1,4.6,6,High
+C197,P030,Cushion Set,Home,1,3.8,5,Medium
+C147,P008,Wireless Mouse,Accessories,1,4.2,2,Low
+C039,P008,Wireless Mouse,Accessories,1,4.4,3,Medium
+C088,P031,Notebook,Stationery,1,4.7,10,High
+C151,P020,Casual Shirt,Fashion,1,4.2,6,High
+C178,P001,Wireless Headphones,Electronics,2,4.3,5,Medium
+C213,P010,Webcam,Accessories,2,3.9,5,Medium
+C152,P002,Bluetooth Speaker,Electronics,2,4.4,10,High
+C085,P012,Yoga Mat,Sports,1,3.5,6,High
+C212,P011,Running Shoes,Sports,2,4.3,2,Low
+C171,P016,Backpack,Bags,1,5.0,4,Medium
+C055,P001,Wireless Headphones,Electronics,1,3.9,10,High
+C121,P008,Wireless Mouse,Accessories,1,5.0,3,Medium
+C075,P019,Sunglasses,Fashion,1,3.8,6,High
+C161,P019,Sunglasses,Fashion,1,4.3,5,Medium
+C004,P020,Casual Shirt,Fashion,1,3.8,4,Medium
+C002,P033,Desk Organizer,Stationery,1,4.3,4,Medium
+C197,P027,Coffee Maker,Home,1,3.9,7,High
+C072,P016,Backpack,Bags,1,4.9,4,Medium
+C187,P012,Yoga Mat,Sports,2,4.9,8,High
+C054,P008,Wireless Mouse,Accessories,1,4.8,6,High
+C123,P028,Water Bottle Set,Home,1,3.4,8,High
+C170,P011,Running Shoes,Sports,1,4.4,3,Medium
+C199,P020,Casual Shirt,Fashion,2,3.8,7,High
+C053,P020,Casual Shirt,Fashion,1,5.0,5,Medium
+C087,P016,Backpack,Bags,1,4.9,4,Medium
+C048,P002,Bluetooth Speaker,Electronics,1,4.4,6,High
+C039,P004,USB-C Charger,Electronics,1,4.6,6,High
+C218,P004,USB-C Charger,Electronics,2,3.8,4,Medium
+C006,P021,Jeans,Fashion,1,4.2,11,High
+C079,P006,Laptop Stand,Electronics,1,4.5,3,Medium
+C217,P028,Water Bottle Set,Home,1,3.7,9,High
+C193,P029,Desk Lamp,Home,1,3.9,2,Low
+C076,P031,Notebook,Stationery,1,4.4,6,High
+C097,P003,Smart Watch,Electronics,1,3.6,8,High
+C125,P008,Wireless Mouse,Accessories,1,3.9,6,High
+C187,P011,Running Shoes,Sports,1,4.3,5,Medium
+C044,P019,Sunglasses,Fashion,3,3.9,6,High
+C141,P012,Yoga Mat,Sports,1,3.8,6,High
+C023,P004,USB-C Charger,Electronics,2,3.6,3,Medium
+C126,P020,Casual Shirt,Fashion,2,4.2,6,High
+C017,P013,Water Bottle,Sports,1,3.6,6,High
+C139,P008,Wireless Mouse,Accessories,3,3.6,9,High
+C062,P034,Novel,Books,2,4.6,2,Low
+C181,P001,Wireless Headphones,Electronics,1,3.9,8,High
+C098,P022,Hoodie,Fashion,2,4.3,5,Medium
+C035,P034,Novel,Books,1,4.1,3,Medium
+C019,P029,Desk Lamp,Home,1,2.8,4,Medium
+C198,P005,Power Bank,Electronics,1,4.6,5,Medium
+C101,P012,Yoga Mat,Sports,2,2.8,6,High
+C041,P003,Smart Watch,Electronics,1,4.0,8,High
+C058,P019,Sunglasses,Fashion,1,3.9,6,High
+C050,P006,Laptop Stand,Electronics,1,3.5,2,Low
+C110,P018,Wallet,Bags,1,3.0,4,Medium
+C027,P015,Sports T-Shirt,Sports,1,3.9,3,Medium
+C183,P029,Desk Lamp,Home,1,4.0,8,High
+C116,P002,Bluetooth Speaker,Electronics,1,5.0,5,Medium
+C125,P001,Wireless Headphones,Electronics,1,5.0,6,High
+C133,P016,Backpack,Bags,1,4.5,5,Medium
+C029,P029,Desk Lamp,Home,1,4.0,5,Medium
+C027,P016,Backpack,Bags,1,4.8,9,High
+C108,P009,Keyboard,Accessories,1,3.6,5,Medium
+C154,P013,Water Bottle,Sports,2,4.5,2,Low
+C015,P028,Water Bottle Set,Home,1,3.8,7,High
+C150,P032,Pen Set,Stationery,2,3.7,6,High
+C203,P027,Coffee Maker,Home,1,4.8,6,High
+C082,P011,Running Shoes,Sports,2,3.9,3,Medium
+C057,P030,Cushion Set,Home,2,4.0,8,High
+C011,P022,Hoodie,Fashion,1,3.2,11,High
+C078,P008,Wireless Mouse,Accessories,1,4.4,3,Medium
+C042,P010,Webcam,Accessories,2,4.1,4,Medium
+C220,P022,Hoodie,Fashion,1,3.9,4,Medium
+C187,P014,Fitness Band,Sports,1,4.3,5,Medium
+C202,P016,Backpack,Bags,3,4.3,7,High
+C056,P013,Water Bottle,Sports,1,4.4,7,High
+C100,P021,Jeans,Fashion,1,4.1,12,High
+C150,P006,Laptop Stand,Electronics,1,4.4,4,Medium
+C068,P022,Hoodie,Fashion,1,3.3,2,Low
+C076,P034,Novel,Books,1,5.0,4,Medium
+C214,P033,Desk Organizer,Stationery,1,3.4,6,High
+C033,P003,Smart Watch,Electronics,1,4.0,6,High
+C028,P010,Webcam,Accessories,1,4.8,5,Medium
+C191,P006,Laptop Stand,Electronics,2,4.9,5,Medium
+C012,P031,Notebook,Stationery,1,4.6,6,High
+C078,P006,Laptop Stand,Electronics,1,4.3,6,High
+C207,P035,Cookbook,Books,3,4.1,5,Medium
+C032,P019,Sunglasses,Fashion,1,3.9,7,High
+C107,P009,Keyboard,Accessories,1,4.2,5,Medium
+C089,P031,Notebook,Stationery,1,4.3,6,High
+C140,P020,Casual Shirt,Fashion,1,4.6,5,Medium
+C071,P012,Yoga Mat,Sports,1,4.1,4,Medium
+C005,P018,Wallet,Bags,2,4.7,6,High
+C182,P014,Fitness Band,Sports,1,3.0,5,Medium
+C177,P020,Casual Shirt,Fashion,1,3.8,8,High
+C181,P002,Bluetooth Speaker,Electronics,1,5.0,3,Medium
+C091,P032,Pen Set,Stationery,1,2.9,5,Medium
+C122,P018,Wallet,Bags,1,3.5,7,High
+C139,P006,Laptop Stand,Electronics,1,4.1,4,Medium
+C009,P034,Novel,Books,1,4.1,5,Medium
+C039,P010,Webcam,Accessories,1,4.1,3,Medium
+C052,P001,Wireless Headphones,Electronics,1,4.5,9,High
+C186,P018,Wallet,Bags,1,3.6,3,Medium
+C149,P019,Sunglasses,Fashion,1,4.1,7,High
+C215,P016,Backpack,Bags,1,3.8,6,High
+C192,P002,Bluetooth Speaker,Electronics,1,2.5,4,Medium
+C035,P035,Cookbook,Books,1,3.1,4,Medium
+C063,P018,Wallet,Bags,1,4.1,8,High
+C136,P021,Jeans,Fashion,1,3.7,5,Medium
+C130,P021,Jeans,Fashion,1,3.6,3,Medium
+C166,P013,Water Bottle,Sports,1,3.7,11,High
+C005,P019,Sunglasses,Fashion,2,3.2,7,High
+C029,P016,Backpack,Bags,1,4.2,3,Medium
+C072,P028,Water Bottle Set,Home,2,3.4,5,Medium
+C054,P005,Power Bank,Electronics,1,3.9,9,High
+C147,P004,USB-C Charger,Electronics,1,4.0,9,High
+C213,P004,USB-C Charger,Electronics,2,4.2,5,Medium
+C041,P010,Webcam,Accessories,1,3.7,3,Medium
+C026,P009,Keyboard,Accessories,1,3.9,5,Medium
+C138,P001,Wireless Headphones,Electronics,1,4.5,5,Medium
+C039,P003,Smart Watch,Electronics,1,3.7,3,Medium
+C067,P020,Casual Shirt,Fashion,1,3.1,12,High
+C170,P012,Yoga Mat,Sports,1,4.7,5,Medium
+C159,P030,Cushion Set,Home,1,3.8,9,High
+C161,P021,Jeans,Fashion,1,3.8,5,Medium
+C152,P001,Wireless Headphones,Electronics,1,3.8,4,Medium
+C147,P001,Wireless Headphones,Electronics,1,4.0,5,Medium
+C117,P006,Laptop Stand,Electronics,2,3.3,5,Medium
+C218,P009,Keyboard,Accessories,1,3.5,5,Medium
+C011,P019,Sunglasses,Fashion,2,4.1,6,High
+C202,P027,Coffee Maker,Home,1,4.9,7,High
+C036,P006,Laptop Stand,Electronics,2,4.2,8,High
+C166,P014,Fitness Band,Sports,1,3.9,2,Low
+C038,P030,Cushion Set,Home,1,5.0,6,High
+C004,P022,Hoodie,Fashion,1,4.9,8,High
+C116,P003,Smart Watch,Electronics,1,4.4,6,High
+C012,P034,Novel,Books,2,5.0,5,Medium
+C215,P028,Water Bottle Set,Home,1,3.6,8,High
+C189,P028,Water Bottle Set,Home,1,4.1,8,High
+C117,P031,Notebook,Stationery,1,4.2,6,High
+C152,P009,Keyboard,Accessories,3,4.0,7,High
+C109,P016,Backpack,Bags,2,4.9,7,High
+C061,P013,Water Bottle,Sports,2,3.5,5,Medium
+C160,P021,Jeans,Fashion,2,4.5,7,High
+C146,P028,Water Bottle Set,Home,1,4.8,7,High
+C048,P003,Smart Watch,Electronics,1,4.1,4,Medium
+C007,P016,Backpack,Bags,3,4.0,7,High
+C206,P020,Casual Shirt,Fashion,2,3.6,6,High
+C098,P019,Sunglasses,Fashion,1,2.2,8,High
+C211,P018,Wallet,Bags,2,3.9,5,Medium
+C080,P005,Power Bank,Electronics,1,3.6,9,High
+C049,P013,Water Bottle,Sports,1,4.7,8,High
+C009,P006,Laptop Stand,Electronics,2,3.7,2,Low
+C213,P006,Laptop Stand,Electronics,1,5.0,5,Medium
+C083,P019,Sunglasses,Fashion,1,4.4,4,Medium
+C107,P008,Wireless Mouse,Accessories,1,3.1,5,Medium
+C214,P006,Laptop Stand,Electronics,1,4.1,7,High
+C191,P033,Desk Organizer,Stationery,1,4.7,5,Medium
+C167,P035,Cookbook,Books,1,3.1,4,Medium
+C198,P004,USB-C Charger,Electronics,2,4.4,6,High
+C042,P001,Wireless Headphones,Electronics,2,3.3,7,High
+C192,P009,Keyboard,Accessories,2,4.1,7,High
+C196,P034,Novel,Books,3,4.4,7,High
+C114,P020,Casual Shirt,Fashion,1,3.8,9,High
+C214,P032,Pen Set,Stationery,1,3.7,4,Medium
+C187,P015,Sports T-Shirt,Sports,1,4.4,9,High
+C131,P032,Pen Set,Stationery,2,4.0,4,Medium
+C214,P034,Novel,Books,1,3.9,7,High
+C037,P008,Wireless Mouse,Accessories,1,4.0,5,Medium
+C156,P029,Desk Lamp,Home,1,3.8,8,High
+C034,P006,Laptop Stand,Electronics,1,4.1,9,High
+C152,P008,Wireless Mouse,Accessories,1,4.1,6,High
+C156,P030,Cushion Set,Home,1,3.9,8,High
+C215,P027,Coffee Maker,Home,1,2.3,4,Medium
+C026,P008,Wireless Mouse,Accessories,1,3.3,2,Low
+C049,P011,Running Shoes,Sports,2,4.1,6,High
+C153,P027,Coffee Maker,Home,1,3.5,4,Medium
+C024,P006,Laptop Stand,Electronics,2,4.0,3,Medium
+C095,P031,Notebook,Stationery,1,4.9,8,High
+C095,P033,Desk Organizer,Stationery,1,3.0,10,High
+C167,P034,Novel,Books,1,4.6,5,Medium
+C133,P013,Water Bottle,Sports,1,5.0,4,Medium
+C175,P013,Water Bottle,Sports,2,4.4,3,Medium
+C027,P012,Yoga Mat,Sports,2,4.4,9,High
+C013,P009,Keyboard,Accessories,1,3.6,3,Medium
+C034,P033,Desk Organizer,Stationery,1,4.3,6,High
+C090,P015,Sports T-Shirt,Sports,2,3.3,6,High
+C210,P015,Sports T-Shirt,Sports,1,3.4,4,Medium
+C045,P016,Backpack,Bags,3,4.5,4,Medium
+C148,P012,Yoga Mat,Sports,1,4.0,5,Medium
+C190,P014,Fitness Band,Sports,1,3.6,3,Medium
+C171,P015,Sports T-Shirt,Sports,1,5.0,6,High
+C002,P006,Laptop Stand,Electronics,2,4.5,3,Medium
+C181,P004,USB-C Charger,Electronics,1,4.2,8,High
+C009,P035,Cookbook,Books,3,3.9,3,Medium
+C102,P022,Hoodie,Fashion,1,3.8,9,High
+C146,P029,Desk Lamp,Home,1,4.8,7,High
+C054,P006,Laptop Stand,Electronics,1,4.4,7,High
+C067,P019,Sunglasses,Fashion,1,4.1,6,High
+C166,P012,Yoga Mat,Sports,1,4.1,10,High
+C130,P018,Wallet,Bags,1,3.5,5,Medium
+C140,P019,Sunglasses,Fashion,1,3.3,4,Medium
+C158,P019,Sunglasses,Fashion,1,3.0,4,Medium
+C160,P020,Casual Shirt,Fashion,1,4.3,6,High
+C056,P015,Sports T-Shirt,Sports,1,4.1,6,High
+C138,P002,Bluetooth Speaker,Electronics,1,4.0,9,High
+C065,P027,Coffee Maker,Home,1,4.1,4,Medium
+C093,P034,Novel,Books,2,4.2,7,High
+C034,P032,Pen Set,Stationery,2,2.7,4,Medium
+C177,P022,Hoodie,Fashion,1,4.6,8,High
+C144,P019,Sunglasses,Fashion,1,4.3,8,High
+C198,P009,Keyboard,Accessories,1,4.6,6,High
+C126,P022,Hoodie,Fashion,3,4.2,4,Medium
+C178,P009,Keyboard,Accessories,1,3.7,7,High
+C111,P018,Wallet,Bags,2,4.2,5,Medium
+C033,P008,Wireless Mouse,Accessories,2,3.1,9,High
+C033,P009,Keyboard,Accessories,1,5.0,6,High
+C160,P022,Hoodie,Fashion,1,4.3,7,High
+C208,P031,Notebook,Stationery,2,3.9,4,Medium
+C165,P005,Power Bank,Electronics,1,4.9,3,Medium
+C148,P015,Sports T-Shirt,Sports,1,4.3,3,Medium
+C078,P003,Smart Watch,Electronics,1,5.0,5,Medium
+C105,P012,Yoga Mat,Sports,1,4.2,3,Medium
+C072,P027,Coffee Maker,Home,1,3.1,5,Medium
+C041,P006,Laptop Stand,Electronics,1,3.7,4,Medium
+C028,P003,Smart Watch,Electronics,1,4.5,4,Medium
+C192,P001,Wireless Headphones,Electronics,2,3.9,8,High
+C138,P009,Keyboard,Accessories,1,3.3,7,High
+C033,P001,Wireless Headphones,Electronics,1,4.2,5,Medium
+C213,P003,Smart Watch,Electronics,1,4.6,6,High
+C042,P009,Keyboard,Accessories,1,4.9,5,Medium
+C138,P006,Laptop Stand,Electronics,1,4.9,4,Medium
+C060,P035,Cookbook,Books,1,4.5,8,High
+C064,P028,Water Bottle Set,Home,2,4.2,2,Low
+C089,P032,Pen Set,Stationery,2,4.2,6,High
+C028,P002,Bluetooth Speaker,Electronics,1,4.4,7,High
+C040,P019,Sunglasses,Fashion,1,3.6,9,High
+C044,P021,Jeans,Fashion,2,4.0,9,High
+C098,P020,Casual Shirt,Fashion,1,3.0,5,Medium
+C052,P008,Wireless Mouse,Accessories,1,3.9,7,High
+C093,P032,Pen Set,Stationery,1,3.4,4,Medium
+C216,P027,Coffee Maker,Home,1,3.9,5,Medium
+C172,P035,Cookbook,Books,2,4.0,4,Medium
+C172,P006,Laptop Stand,Electronics,1,3.7,6,High
+C198,P008,Wireless Mouse,Accessories,1,4.0,8,High
+C029,P030,Cushion Set,Home,2,4.7,2,Low
+C143,P005,Power Bank,Electronics,1,4.5,5,Medium
+C089,P033,Desk Organizer,Stationery,1,3.4,4,Medium
+C176,P005,Power Bank,Electronics,1,3.4,7,High
+C197,P028,Water Bottle Set,Home,2,2.5,11,High
+C166,P015,Sports T-Shirt,Sports,1,4.7,5,Medium
+C203,P029,Desk Lamp,Home,1,4.4,6,High
+C048,P001,Wireless Headphones,Electronics,3,3.4,4,Medium
+C144,P022,Hoodie,Fashion,1,3.6,7,High
+C204,P003,Smart Watch,Electronics,1,3.3,5,Medium
+C168,P014,Fitness Band,Sports,1,4.0,3,Medium
+C181,P003,Smart Watch,Electronics,1,4.9,8,High
+C205,P002,Bluetooth Speaker,Electronics,1,5.0,4,Medium
+C140,P022,Hoodie,Fashion,2,4.4,6,High
+C188,P004,USB-C Charger,Electronics,2,4.2,6,High
+C170,P013,Water Bottle,Sports,2,5.0,4,Medium
+C086,P014,Fitness Band,Sports,1,2.4,4,Medium
+C215,P029,Desk Lamp,Home,2,5.0,8,High
+C115,P003,Smart Watch,Electronics,1,5.0,6,High
+C057,P027,Coffee Maker,Home,1,5.0,6,High
+C184,P033,Desk Organizer,Stationery,1,3.0,7,High
+C099,P005,Power Bank,Electronics,1,4.6,5,Medium
+C112,P015,Sports T-Shirt,Sports,2,3.6,6,High
+C026,P004,USB-C Charger,Electronics,1,5.0,2,Low
+C155,P020,Casual Shirt,Fashion,2,3.8,7,High
+C050,P001,Wireless Headphones,Electronics,1,4.3,7,High
+C195,P001,Wireless Headphones,Electronics,1,4.3,6,High
+C137,P029,Desk Lamp,Home,1,4.2,7,High
+C151,P018,Wallet,Bags,1,4.7,6,High
+C082,P013,Water Bottle,Sports,1,3.8,8,High
+C217,P027,Coffee Maker,Home,1,2.8,4,Medium
+C189,P030,Cushion Set,Home,1,5.0,6,High
+C050,P009,Keyboard,Accessories,1,4.6,6,High
+C176,P002,Bluetooth Speaker,Electronics,1,4.0,7,High
+C152,P005,Power Bank,Electronics,3,3.5,5,Medium
+C070,P004,USB-C Charger,Electronics,1,4.3,5,Medium
+C146,P027,Coffee Maker,Home,3,2.8,6,High
+C092,P016,Backpack,Bags,1,4.2,4,Medium
+C200,P013,Water Bottle,Sports,1,4.6,7,High
+C159,P029,Desk Lamp,Home,1,4.6,4,Medium
+C079,P008,Wireless Mouse,Accessories,2,4.0,6,High
+C055,P003,Smart Watch,Electronics,1,5.0,5,Medium
+C168,P013,Water Bottle,Sports,1,3.2,6,High
+C141,P011,Running Shoes,Sports,2,3.4,6,High
+C143,P001,Wireless Headphones,Electronics,1,4.7,7,High
+C061,P016,Backpack,Bags,1,4.6,4,Medium
+C083,P018,Wallet,Bags,1,4.1,5,Medium
+C085,P016,Backpack,Bags,1,4.7,4,Medium
+C048,P010,Webcam,Accessories,1,5.0,7,High
+C212,P016,Backpack,Bags,2,3.6,5,Medium
+C182,P016,Backpack,Bags,1,3.9,6,High
+C108,P002,Bluetooth Speaker,Electronics,1,4.2,5,Medium
+C078,P001,Wireless Headphones,Electronics,1,4.6,2,Low
+C114,P018,Wallet,Bags,1,4.2,6,High
+C144,P021,Jeans,Fashion,1,3.7,7,High
+C218,P003,Smart Watch,Electronics,1,5.0,8,High
+C207,P033,Desk Organizer,Stationery,1,4.6,3,Medium
+C207,P031,Notebook,Stationery,3,4.2,6,High
+C139,P010,Webcam,Accessories,1,4.3,6,High
+C192,P006,Laptop Stand,Electronics,1,3.0,6,High
+C145,P027,Coffee Maker,Home,1,3.9,9,High
+C195,P009,Keyboard,Accessories,1,3.5,8,High
+C127,P014,Fitness Band,Sports,1,3.8,7,High
+C212,P014,Fitness Band,Sports,1,3.0,5,Medium
+C131,P035,Cookbook,Books,1,3.9,11,High
+C180,P009,Keyboard,Accessories,1,5.0,6,High
+C021,P020,Casual Shirt,Fashion,2,5.0,5,Medium
+C052,P004,USB-C Charger,Electronics,2,4.0,8,High
+C157,P019,Sunglasses,Fashion,2,2.9,6,High
+C036,P031,Notebook,Stationery,2,4.2,8,High
+C118,P032,Pen Set,Stationery,2,4.3,6,High
+C009,P032,Pen Set,Stationery,1,4.5,5,Medium
+C122,P022,Hoodie,Fashion,1,5.0,7,High
+C038,P029,Desk Lamp,Home,1,4.9,7,High
+C147,P009,Keyboard,Accessories,1,4.6,6,High
+C198,P010,Webcam,Accessories,1,5.0,4,Medium
+C192,P010,Webcam,Accessories,2,4.2,5,Medium
+C192,P004,USB-C Charger,Electronics,1,4.8,7,High
+C210,P011,Running Shoes,Sports,1,4.4,7,High
+C165,P006,Laptop Stand,Electronics,1,4.0,5,Medium
+C023,P005,Power Bank,Electronics,1,3.4,5,Medium
+C129,P011,Running Shoes,Sports,1,2.9,7,High
+C051,P032,Pen Set,Stationery,1,4.7,8,High
+C167,P033,Desk Organizer,Stationery,2,3.2,6,High
+C131,P034,Novel,Books,1,4.7,5,Medium
+C155,P019,Sunglasses,Fashion,2,4.4,7,High
+C105,P011,Running Shoes,Sports,1,3.6,9,High
+C126,P019,Sunglasses,Fashion,3,3.8,3,Medium
+C196,P031,Notebook,Stationery,1,3.6,5,Medium
+C044,P020,Casual Shirt,Fashion,1,4.6,8,High
+C087,P015,Sports T-Shirt,Sports,2,4.4,5,Medium
+C180,P002,Bluetooth Speaker,Electronics,1,3.1,7,High
+C089,P035,Cookbook,Books,1,3.8,3,Medium
+C173,P014,Fitness Band,Sports,1,5.0,2,Low
+C209,P013,Water Bottle,Sports,2,4.1,4,Medium
+C047,P021,Jeans,Fashion,1,3.5,2,Low
+C002,P034,Novel,Books,1,4.2,4,Medium
+C174,P034,Novel,Books,1,3.7,3,Medium
+C144,P018,Wallet,Bags,2,3.3,6,High
+C200,P012,Yoga Mat,Sports,1,3.8,3,Medium
+C138,P010,Webcam,Accessories,1,4.8,11,High
+C166,P011,Running Shoes,Sports,1,3.4,7,High
+C124,P027,Coffee Maker,Home,2,2.7,8,High
+C163,P019,Sunglasses,Fashion,1,4.4,5,Medium
+C153,P016,Backpack,Bags,2,4.1,10,High
+C024,P002,Bluetooth Speaker,Electronics,1,4.3,8,High
+C182,P011,Running Shoes,Sports,1,4.1,7,High
+C163,P021,Jeans,Fashion,2,2.9,7,High
+C130,P019,Sunglasses,Fashion,2,4.0,5,Medium
+C091,P031,Notebook,Stationery,2,3.6,4,Medium
+C113,P031,Notebook,Stationery,1,4.4,7,High
+C012,P033,Desk Organizer,Stationery,1,3.9,9,High
+C008,P028,Water Bottle Set,Home,1,5.0,5,Medium
+C176,P003,Smart Watch,Electronics,1,4.8,6,High
+C191,P034,Novel,Books,2,4.2,4,Medium
+C043,P029,Desk Lamp,Home,1,3.4,7,High
+C030,P015,Sports T-Shirt,Sports,2,3.9,3,Medium
+C007,P030,Cushion Set,Home,1,4.6,7,High
+C197,P016,Backpack,Bags,1,5.0,7,High
+C050,P010,Webcam,Accessories,1,3.5,7,High
+C111,P022,Hoodie,Fashion,1,4.8,8,High
+C175,P014,Fitness Band,Sports,2,3.5,6,High
+C084,P022,Hoodie,Fashion,2,4.3,6,High
+C063,P020,Casual Shirt,Fashion,1,4.2,6,High
+C094,P006,Laptop Stand,Electronics,1,4.4,9,High
+C152,P003,Smart Watch,Electronics,1,3.4,4,Medium
+C087,P011,Running Shoes,Sports,1,3.8,5,Medium
+C134,P019,Sunglasses,Fashion,2,4.9,2,Low
+C113,P006,Laptop Stand,Electronics,2,4.6,6,High
+C031,P021,Jeans,Fashion,2,5.0,4,Medium
+C016,P021,Jeans,Fashion,1,3.4,4,Medium
+C107,P003,Smart Watch,Electronics,2,4.9,3,Medium
+C145,P030,Cushion Set,Home,1,4.1,2,Low
+C029,P027,Coffee Maker,Home,1,4.6,7,High
+C216,P028,Water Bottle Set,Home,2,3.3,7,High
+C117,P033,Desk Organizer,Stationery,2,4.2,3,Medium
+C191,P032,Pen Set,Stationery,1,4.6,4,Medium
+C213,P008,Wireless Mouse,Accessories,3,3.7,8,High
+C016,P019,Sunglasses,Fashion,1,4.0,3,Medium
+C184,P006,Laptop Stand,Electronics,2,3.8,5,Medium
+C004,P018,Wallet,Bags,1,3.7,6,High
+C036,P034,Novel,Books,1,4.1,5,Medium
+C010,P016,Backpack,Bags,1,4.3,2,Low
+C112,P012,Yoga Mat,Sports,1,4.3,11,High
+C084,P019,Sunglasses,Fashion,1,4.3,3,Medium
+C041,P009,Keyboard,Accessories,1,3.8,4,Medium
+C173,P015,Sports T-Shirt,Sports,2,3.2,9,High
+C047,P019,Sunglasses,Fashion,2,3.9,6,High
+C179,P016,Backpack,Bags,1,4.4,7,High
+C013,P010,Webcam,Accessories,1,3.2,5,Medium
+C198,P001,Wireless Headphones,Electronics,2,2.8,10,High
+C076,P006,Laptop Stand,Electronics,1,5.0,7,High
+C169,P018,Wallet,Bags,1,3.2,4,Medium
+C161,P022,Hoodie,Fashion,2,5.0,6,High
+C162,P021,Jeans,Fashion,1,4.3,6,High
+C065,P028,Water Bottle Set,Home,1,3.2,5,Medium
+C157,P022,Hoodie,Fashion,1,4.1,10,High
+C053,P022,Hoodie,Fashion,1,3.7,5,Medium
+C163,P022,Hoodie,Fashion,2,3.8,10,High
+C105,P013,Water Bottle,Sports,1,3.9,4,Medium
+C103,P020,Casual Shirt,Fashion,1,4.1,9,High
+C220,P019,Sunglasses,Fashion,1,3.3,6,High
+C185,P019,Sunglasses,Fashion,1,4.6,6,High
+C195,P002,Bluetooth Speaker,Electronics,2,4.8,9,High
+C057,P016,Backpack,Bags,1,4.5,9,High
+C043,P027,Coffee Maker,Home,2,2.8,5,Medium
+C036,P032,Pen Set,Stationery,1,2.7,3,Medium
+C127,P011,Running Shoes,Sports,2,3.4,4,Medium
+C164,P031,Notebook,Stationery,3,4.9,3,Medium
+C089,P006,Laptop Stand,Electronics,1,4.3,9,High
+C158,P020,Casual Shirt,Fashion,1,3.6,7,High
+C108,P005,Power Bank,Electronics,1,3.4,7,High
+C186,P020,Casual Shirt,Fashion,1,3.1,7,High
+C175,P011,Running Shoes,Sports,1,5.0,7,High
+C025,P012,Yoga Mat,Sports,2,3.1,6,High
+C129,P015,Sports T-Shirt,Sports,3,4.2,11,High
+C087,P013,Water Bottle,Sports,1,4.7,4,Medium
+C001,P012,Yoga Mat,Sports,1,3.8,6,High
+C209,P014,Fitness Band,Sports,1,3.6,9,High
+C217,P029,Desk Lamp,Home,2,5.0,4,Medium
+C128,P028,Water Bottle Set,Home,1,4.7,7,High
+C020,P029,Desk Lamp,Home,2,4.1,6,High
+C044,P022,Hoodie,Fashion,1,4.3,5,Medium
+C009,P033,Desk Organizer,Stationery,1,4.2,5,Medium
+C176,P001,Wireless Headphones,Electronics,2,4.2,8,High
+C115,P002,Bluetooth Speaker,Electronics,1,4.2,7,High
+C096,P013,Water Bottle,Sports,1,3.5,4,Medium
+C103,P019,Sunglasses,Fashion,1,5.0,5,Medium
+C081,P028,Water Bottle Set,Home,1,3.8,4,Medium
+C023,P002,Bluetooth Speaker,Electronics,1,4.2,5,Medium
+C076,P035,Cookbook,Books,2,4.8,7,High
+C201,P014,Fitness Band,Sports,2,3.4,2,Low
+C129,P012,Yoga Mat,Sports,1,3.9,2,Low
+C077,P011,Running Shoes,Sports,1,4.3,7,High
+C176,P010,Webcam,Accessories,2,5.0,7,High
+C051,P034,Novel,Books,1,3.8,5,Medium
+C004,P019,Sunglasses,Fashion,1,4.0,6,High
+C070,P008,Wireless Mouse,Accessories,1,3.4,7,High
+C136,P018,Wallet,Bags,2,4.7,5,Medium
+C086,P012,Yoga Mat,Sports,1,5.0,6,High
+C059,P028,Water Bottle Set,Home,2,4.7,1,Low
+C037,P005,Power Bank,Electronics,1,4.7,6,High
+C191,P035,Cookbook,Books,1,3.5,6,High
+C219,P027,Coffee Maker,Home,2,3.6,6,High
+C145,P029,Desk Lamp,Home,1,4.0,5,Medium
+C186,P021,Jeans,Fashion,2,4.1,5,Medium
+C110,P019,Sunglasses,Fashion,2,3.4,4,Medium
+C217,P016,Backpack,Bags,1,4.8,10,High
+C114,P021,Jeans,Fashion,1,4.1,6,High
+C188,P001,Wireless Headphones,Electronics,2,4.0,5,Medium
+C052,P002,Bluetooth Speaker,Electronics,2,4.0,6,High
+C129,P014,Fitness Band,Sports,2,2.7,5,Medium
+C197,P029,Desk Lamp,Home,1,4.5,3,Medium
+C128,P016,Backpack,Bags,1,3.9,7,High
+C154,P012,Yoga Mat,Sports,1,4.0,5,Medium
+C041,P008,Wireless Mouse,Accessories,1,4.7,6,High
+C177,P021,Jeans,Fashion,2,2.2,7,High
+C157,P020,Casual Shirt,Fashion,1,3.6,4,Medium
+C108,P001,Wireless Headphones,Electronics,1,4.0,4,Medium
+C153,P029,Desk Lamp,Home,2,4.2,13,High
+C115,P008,Wireless Mouse,Accessories,1,3.6,3,Medium
+C015,P030,Cushion Set,Home,2,4.2,6,High
+C108,P003,Smart Watch,Electronics,1,3.8,4,Medium
+C128,P027,Coffee Maker,Home,3,5.0,4,Medium
+C194,P019,Sunglasses,Fashion,2,4.0,7,High
+C169,P019,Sunglasses,Fashion,1,4.9,4,Medium
+C054,P002,Bluetooth Speaker,Electronics,1,4.6,8,High
+C006,P022,Hoodie,Fashion,2,3.3,8,High
+C070,P009,Keyboard,Accessories,1,3.8,5,Medium
+C104,P029,Desk Lamp,Home,1,3.5,5,Medium
+C036,P035,Cookbook,Books,1,4.7,7,High
+C060,P006,Laptop Stand,Electronics,1,3.6,6,High
+C213,P002,Bluetooth Speaker,Electronics,1,3.9,4,Medium
+C042,P003,Smart Watch,Electronics,1,4.4,6,High
+C086,P013,Water Bottle,Sports,1,3.7,4,Medium
+C182,P012,Yoga Mat,Sports,2,5.0,3,Medium
+C093,P035,Cookbook,Books,1,3.8,6,High
+C112,P016,Backpack,Bags,1,3.3,5,Medium
+C077,P015,Sports T-Shirt,Sports,1,3.4,5,Medium
+C174,P006,Laptop Stand,Electronics,1,3.1,3,Medium
+C069,P006,Laptop Stand,Electronics,1,5.0,5,Medium
+C149,P018,Wallet,Bags,2,3.8,4,Medium
+C029,P028,Water Bottle Set,Home,2,3.8,7,High
+C149,P021,Jeans,Fashion,1,3.2,8,High
+C196,P006,Laptop Stand,Electronics,2,4.5,7,High
+C024,P001,Wireless Headphones,Electronics,1,4.1,7,High
+C082,P012,Yoga Mat,Sports,1,5.0,10,High
+C021,P018,Wallet,Bags,1,4.4,4,Medium
+C104,P016,Backpack,Bags,3,4.4,5,Medium
+C074,P019,Sunglasses,Fashion,1,3.0,6,High
+C047,P022,Hoodie,Fashion,2,5.0,9,High
+C106,P028,Water Bottle Set,Home,1,4.3,6,High
+C027,P014,Fitness Band,Sports,1,4.0,3,Medium
+C138,P008,Wireless Mouse,Accessories,1,4.5,6,High
+C005,P021,Jeans,Fashion,2,4.6,3,Medium
+C157,P018,Wallet,Bags,2,3.6,6,High
+C018,P011,Running Shoes,Sports,2,4.0,5,Medium
+C025,P014,Fitness Band,Sports,1,3.0,8,High
+C058,P022,Hoodie,Fashion,2,5.0,5,Medium
+C194,P018,Wallet,Bags,1,3.6,4,Medium
+C098,P018,Wallet,Bags,1,3.6,4,Medium
+C024,P003,Smart Watch,Electronics,1,4.3,9,High
